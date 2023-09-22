@@ -13,9 +13,12 @@ If you want everything, just click the green "<> Code" button, then click "Downl
 If you instead only want one file, navigate to that file and click the "Download raw file" button on the right side of the page.
 
 ## Issues
-Issues can be created in GitHub to make comments on errors, feature/addition requests, and suggestions.  These can be either for the models themselves, or for their documentation.  **Do not use Issues as a request for help on using the templates.**
+Issues can be created in GitHub to make comments on errors, feature/addition requests, and suggestions.  These can be either for the models themselves, or for their documentation.  
 
-Please use one of the following form factors in the title your issue or it will be closed as improperly formatted.
+**Do not use Issues as a general request for help on using the templates unless it relates to a problem in the model or documentation.**
+
+
+Please use one of the following form factors in the title your issue or it will be closed as improperly formatted.<br>
 
 [Issue] [ModelFileName.bin] Issue that you are describing<br>
 [Feature Request] Feature/Addition that you want to see<br>
