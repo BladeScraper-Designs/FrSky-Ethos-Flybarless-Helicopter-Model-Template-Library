@@ -5,4 +5,5 @@ The templates will be officially hosted on https://ethos.frsky-rc.com, but inter
 How to use this repository:
 1. Navigate to the [main introduction document](Documentation/READ_THIS_DOCUMENT_FIRST!.pdf) and read it.
 2. Read it.
-3. Navigate to the Model Files folder and download whichever model you want to use.  Also download or open in GitHub the appropriate documentation .pdf for it.
+3. Navigate to the Model Files folder and download whichever model you want to use.
+4. Find the corresponding .pdf documentation for that model in the Documentation/Models folder.
